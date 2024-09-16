@@ -11,7 +11,7 @@ Hogar Animal es una aplicación web diseñada para conectar a personas que busca
 
 ## Tecnologías Utilizadas
 
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Frontend:** React, HTML, CSS, TypeScript
 - **Backend:** Java, Spring Boot
 - **Base de Datos:** MySQL
 
