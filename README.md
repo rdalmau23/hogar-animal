@@ -42,10 +42,10 @@ Hogar Animal es una aplicación web diseñada para conectar a personas que busca
 
 ## Integrantes
 
-- Andrei
-- Rafel
-- Mihai
-- Anouar
+- Andrei Mira
+- Rafel Dalmau
+- Mihai Romaniuc
+- Anouar Kajaj
 
 ## Licencia
 
